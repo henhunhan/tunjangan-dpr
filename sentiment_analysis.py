@@ -6,7 +6,7 @@ from tqdm import tqdm
 df = pd.read_csv("clean_comments.csv")
 
 # Load model IndoBERT Sentiment
-model_name = "indobenchmark/indobert-base-p1"
+model_name = "w11wo/indonesian-roberta-base-sentiment-classifier"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForSequenceClassification.from_pretrained(
     "w11wo/indonesian-roberta-base-sentiment-classifier"

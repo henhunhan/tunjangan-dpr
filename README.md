@@ -2,6 +2,9 @@
 Proyek ini bertujuan untuk menganalisis opini pengguna platform Youtube terhadap isu "Tunjangan dan Gaji DPR" yang sempat ramai di Indonesia.\
 Output dari project ini adalah opini pengguna platform youtube yang terbagi menjadi sentimen positif, negatif, dan netral.
 
+# 🚀Link Demo Streamlit
+## Link : https://tunjangan-dpr-lqivfvn6v8bhkvekdmbdly.streamlit.app/
+
 ## 1. Latar Belakang 
 Isu Tunjangan dan Gaji DPR menjadi topik hangat yang sering muncul di media sosial, terutama portal berita yang menayangkan berita di platform Youtube.\
 Proyek ini bertujuan untuk memahami bagaimana pengguna platform Youtube melihat topik tersebut dan arah opini dari pengguna platform Youtube, apakah opini mereka positif/mendukung, negatif/menolak, atau netral.\

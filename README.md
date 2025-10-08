@@ -46,7 +46,7 @@ Pemilihan platform Youtube dikarenakan banyak video yang membahas isu tersebut d
 
 ## 3. User Guide 
 1. Pastikan Python sudah terinstall pada device
-2. Clone repository ini dengan menggunakan `git clone` maupun download dalam bentuk .zip
+2. Clone repository ini dengan menggunakan `git clone` ataupun download dalam bentuk .zip
 3. Jalankan script `scraper.py` untuk melakukan data crawling pada platform Youtube. Ubah Youtube API sesuai dengan Youtube API yang dimiliki. Jika ingin mengubah search query, bisa langsung diubah pada bagian `queries`
 4. Jalankan script `clean_comments.py` untuk membersihkan comment hasil crawling.
 5. Jalankan script `sentiment.analysis.py` untuk melakukan sentiment analysis terhadap data yang sudah dibersihkan.
